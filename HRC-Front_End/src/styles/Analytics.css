@@ -1,0 +1,10 @@
+.Inner_Grid {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+.Outer_Grid {
+    display:flex;
+    flex-direction: row;
+    margin: 1rem;
+  }

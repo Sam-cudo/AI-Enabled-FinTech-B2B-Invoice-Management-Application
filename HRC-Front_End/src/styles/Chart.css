@@ -1,0 +1,12 @@
+.chart_head {
+    display:flex;
+    flex-direction: row;
+  }
+  .head{
+    align-items: center;
+    margin-left: 42%;
+  }
+  .but{
+    align-items:right;
+    margin-left: 38%;
+  }
